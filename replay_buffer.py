@@ -1,4 +1,3 @@
-# This code is shamelessly stolen from https://github.com/openai/baselines/blob/master/baselines/deepq/replay_buffer.py
 import numpy as np
 import random
 
