@@ -1,1 +1,1 @@
-# atari_breakout
+# Adaptive Reinforcement Learning based on Breakout game
